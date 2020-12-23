@@ -1,5 +1,6 @@
 # Cable Service Management System (CSMS)
 - This is a web application that makes management of customers and their billing easier for the Service Providers.
+- This application is fully responsive and developed with mobile-first framework Bootstrap 4.
 
 ## Screenshots
 ![](ss/Screenshot1.png)
