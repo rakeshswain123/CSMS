@@ -5,7 +5,7 @@
 ![](ss/Screenshot1.png)
 ![](ss/Screenshot2.png)
 ![](ss/Screenshot3.png)
-![](ss.Screenshot4.png)
+![](ss/Screenshot4.png)
 
 ## Getting Started
 To get the Node Server running locally: 
