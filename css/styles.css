@@ -1,0 +1,48 @@
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+    
+}
+.row-content{
+    margin:0px auto ;
+    padding: 50px 0px 50px 100px;
+    border-bottom: 1px ridge;
+    
+
+}
+.image{
+    background-image: url(../img/lanju-fotografie-r-r-sgXzbo0-unsplash.jpg);
+    min-height: 400px;
+    background-position: center;
+    background-size: cover;
+}
+.media{
+    font-family: fantasy;
+    font-size:large;
+    justify-content: right;
+    color: #000033;
+    
+}
+.navbar{
+    background-color: mediumslateblue;
+    
+}
+.footer{
+    background-color: #222324;
+    text-align: justify;
+    margin:0px auto;
+    padding:20px;
+}
+.jumbotron {
+    padding: 100px 30px 50px 20px;
+    margin:0px auto;
+    background-image: url(../img/pexels-travis-blessing-1363876.jpg);
+    background-position: center;
+    background-size: cover;
+    color: powderblue;
+}
+.address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
